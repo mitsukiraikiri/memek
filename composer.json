@@ -1,0 +1,18 @@
+{
+    "name": "memek/ajaib",
+    "description": "hanyalah sebuah memek",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Memek\\Ajaib\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mitsukiraikiri",
+            "email": "mitsukiraikiri@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

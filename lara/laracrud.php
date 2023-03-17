@@ -1,5 +1,5 @@
 <?php
-namespace ajaib;
+namespace ajaib\lara;
 class laracrud
 {
     public static function test(){

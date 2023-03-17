@@ -2,9 +2,10 @@
     "name": "memek/ajaib",
     "description": "hanyalah sebuah memek",
     "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Memek\\": "src/"
+            "Memek\\Ajaib\\": "lara/"
         }
     },
     "authors": [
@@ -13,5 +14,6 @@
             "email": "mitsukiraikiri@gmail.com"
         }
     ],
-    "license": "MIT"
+    "minimum-stability": "stable",
+    "require": {}
 }
